@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Overloading", "1_Overloading\1_Overloading.csproj", "{F709D0C2-CE69-41A0-ABD7-959FDDD41E79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Szemelyek", "2_Szemelyek\2_Szemelyek.csproj", "{F24F8053-91F3-4DB2-BBCA-235F62EA1AFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Hanglemez", "3_Hanglemez\3_Hanglemez.csproj", "{64038460-AF7C-46CC-9173-34E6DEE83106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F709D0C2-CE69-41A0-ABD7-959FDDD41E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F709D0C2-CE69-41A0-ABD7-959FDDD41E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F709D0C2-CE69-41A0-ABD7-959FDDD41E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F709D0C2-CE69-41A0-ABD7-959FDDD41E79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F24F8053-91F3-4DB2-BBCA-235F62EA1AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24F8053-91F3-4DB2-BBCA-235F62EA1AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24F8053-91F3-4DB2-BBCA-235F62EA1AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24F8053-91F3-4DB2-BBCA-235F62EA1AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64038460-AF7C-46CC-9173-34E6DEE83106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64038460-AF7C-46CC-9173-34E6DEE83106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64038460-AF7C-46CC-9173-34E6DEE83106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64038460-AF7C-46CC-9173-34E6DEE83106}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\7_Csak_olvashato_gyujtemeny\bin\Debug\7_Csak_olvashato_gyujtemeny.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\7_Csak_olvashato_gyujtemeny\bin\Debug\7_Csak_olvashato_gyujtemeny.exe
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\7_Csak_olvashato_gyujtemeny\bin\Debug\7_Csak_olvashato_gyujtemeny.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\7_Csak_olvashato_gyujtemeny\obj\Debug\7_Csak_olvashato_gyujtemeny.exe
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\7_Csak_olvashato_gyujtemeny\obj\Debug\7_Csak_olvashato_gyujtemeny.pdb

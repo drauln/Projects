@@ -1,0 +1,5 @@
+c:\users\drauln\documents\visual studio 2017\Projects\11_Klonozas_regularis_kifejezes\5_Regularis_kifejezes\bin\Debug\5_Regularis_kifejezes.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\11_Klonozas_regularis_kifejezes\5_Regularis_kifejezes\bin\Debug\5_Regularis_kifejezes.exe
+c:\users\drauln\documents\visual studio 2017\Projects\11_Klonozas_regularis_kifejezes\5_Regularis_kifejezes\bin\Debug\5_Regularis_kifejezes.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\11_Klonozas_regularis_kifejezes\5_Regularis_kifejezes\obj\Debug\5_Regularis_kifejezes.exe
+c:\users\drauln\documents\visual studio 2017\Projects\11_Klonozas_regularis_kifejezes\5_Regularis_kifejezes\obj\Debug\5_Regularis_kifejezes.pdb

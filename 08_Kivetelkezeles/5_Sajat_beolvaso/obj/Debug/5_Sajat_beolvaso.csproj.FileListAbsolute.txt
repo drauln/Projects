@@ -1,0 +1,5 @@
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\5_Sajat_beolvaso\bin\Debug\5_Sajat_beolvaso.exe.config
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\5_Sajat_beolvaso\bin\Debug\5_Sajat_beolvaso.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\5_Sajat_beolvaso\bin\Debug\5_Sajat_beolvaso.pdb
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\5_Sajat_beolvaso\obj\Debug\5_Sajat_beolvaso.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\5_Sajat_beolvaso\obj\Debug\5_Sajat_beolvaso.pdb

@@ -1,0 +1,6 @@
+c:\users\drauln\documents\visual studio 2017\Projects\06_Absztrakt_osztaly_interace\3_Szulo\bin\Debug\3_Szulo.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\06_Absztrakt_osztaly_interace\3_Szulo\bin\Debug\3_Szulo.exe
+c:\users\drauln\documents\visual studio 2017\Projects\06_Absztrakt_osztaly_interace\3_Szulo\bin\Debug\3_Szulo.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\06_Absztrakt_osztaly_interace\3_Szulo\obj\Debug\3_Szulo.csprojResolveAssemblyReference.cache
+c:\users\drauln\documents\visual studio 2017\Projects\06_Absztrakt_osztaly_interace\3_Szulo\obj\Debug\3_Szulo.exe
+c:\users\drauln\documents\visual studio 2017\Projects\06_Absztrakt_osztaly_interace\3_Szulo\obj\Debug\3_Szulo.pdb

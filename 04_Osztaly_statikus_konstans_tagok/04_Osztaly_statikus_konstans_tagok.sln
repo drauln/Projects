@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Szemely", "1_Szemely\1_Szemely.csproj", "{7B93F416-52B0-4248-9077-A0C804E79101}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Tures", "2_Tures\2_Tures.csproj", "{F7E84FBE-DF5F-4507-962C-648B3F29FDCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Konyv", "3_Konyv\3_Konyv.csproj", "{6824FFAF-FEB5-4558-88CC-A17B01C2927B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B93F416-52B0-4248-9077-A0C804E79101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B93F416-52B0-4248-9077-A0C804E79101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B93F416-52B0-4248-9077-A0C804E79101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B93F416-52B0-4248-9077-A0C804E79101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E84FBE-DF5F-4507-962C-648B3F29FDCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E84FBE-DF5F-4507-962C-648B3F29FDCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E84FBE-DF5F-4507-962C-648B3F29FDCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E84FBE-DF5F-4507-962C-648B3F29FDCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6824FFAF-FEB5-4558-88CC-A17B01C2927B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6824FFAF-FEB5-4558-88CC-A17B01C2927B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6824FFAF-FEB5-4558-88CC-A17B01C2927B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6824FFAF-FEB5-4558-88CC-A17B01C2927B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\9_Hash_halmaz\bin\Debug\9_Hash_halmaz.exe.config
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\9_Hash_halmaz\bin\Debug\9_Hash_halmaz.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\9_Hash_halmaz\bin\Debug\9_Hash_halmaz.pdb
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\9_Hash_halmaz\obj\Debug\9_Hash_halmaz.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\9_Hash_halmaz\obj\Debug\9_Hash_halmaz.pdb

@@ -1,0 +1,6 @@
+c:\users\drauln\documents\visual studio 2017\Projects\09_Params_destruktor_yield_operator_overloading\2_IDisposable_minta\bin\Debug\2_IDisposable_minta.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\09_Params_destruktor_yield_operator_overloading\2_IDisposable_minta\bin\Debug\2_IDisposable_minta.exe
+c:\users\drauln\documents\visual studio 2017\Projects\09_Params_destruktor_yield_operator_overloading\2_IDisposable_minta\bin\Debug\2_IDisposable_minta.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\09_Params_destruktor_yield_operator_overloading\2_IDisposable_minta\obj\Debug\2_IDisposable_minta.exe
+c:\users\drauln\documents\visual studio 2017\Projects\09_Params_destruktor_yield_operator_overloading\2_IDisposable_minta\obj\Debug\2_IDisposable_minta.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\09_Params_destruktor_yield_operator_overloading\2_IDisposable_minta\obj\Debug\2_IDisposable_minta.csprojResolveAssemblyReference.cache

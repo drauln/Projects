@@ -1,0 +1,5 @@
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\13_Szalkezeles\4_ConcurrentBag\bin\Debug\4_ConcurrentBag.exe.config
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\13_Szalkezeles\4_ConcurrentBag\bin\Debug\4_ConcurrentBag.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\13_Szalkezeles\4_ConcurrentBag\bin\Debug\4_ConcurrentBag.pdb
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\13_Szalkezeles\4_ConcurrentBag\obj\Debug\4_ConcurrentBag.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\13_Szalkezeles\4_ConcurrentBag\obj\Debug\4_ConcurrentBag.pdb

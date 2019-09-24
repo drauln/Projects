@@ -1,0 +1,6 @@
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\8_Tuple\bin\Debug\8_Tuple.exe.config
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\8_Tuple\bin\Debug\8_Tuple.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\8_Tuple\bin\Debug\8_Tuple.pdb
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\8_Tuple\obj\Debug\8_Tuple.csprojResolveAssemblyReference.cache
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\8_Tuple\obj\Debug\8_Tuple.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\8_Tuple\obj\Debug\8_Tuple.pdb

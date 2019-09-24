@@ -1,0 +1,5 @@
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\18_Fajlkezeles_sorositas\8_Konyv_sorositasa\bin\Debug\8_Konyv_sorositasa.exe.config
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\18_Fajlkezeles_sorositas\8_Konyv_sorositasa\bin\Debug\8_Konyv_sorositasa.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\18_Fajlkezeles_sorositas\8_Konyv_sorositasa\bin\Debug\8_Konyv_sorositasa.pdb
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\18_Fajlkezeles_sorositas\8_Konyv_sorositasa\obj\Debug\8_Konyv_sorositasa.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\18_Fajlkezeles_sorositas\8_Konyv_sorositasa\obj\Debug\8_Konyv_sorositasa.pdb

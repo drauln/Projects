@@ -1,0 +1,5 @@
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\4_Do_while_ciklus\bin\Debug\4_Do_while_ciklus.exe.config
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\4_Do_while_ciklus\bin\Debug\4_Do_while_ciklus.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\4_Do_while_ciklus\bin\Debug\4_Do_while_ciklus.pdb
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\4_Do_while_ciklus\obj\Debug\4_Do_while_ciklus.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\4_Do_while_ciklus\obj\Debug\4_Do_while_ciklus.pdb

@@ -1,0 +1,5 @@
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\A_EmberekException\bin\Debug\A_EmberekException.exe.config
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\A_EmberekException\bin\Debug\A_EmberekException.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\A_EmberekException\bin\Debug\A_EmberekException.pdb
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\A_EmberekException\obj\Debug\A_EmberekException.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\A_EmberekException\obj\Debug\A_EmberekException.pdb

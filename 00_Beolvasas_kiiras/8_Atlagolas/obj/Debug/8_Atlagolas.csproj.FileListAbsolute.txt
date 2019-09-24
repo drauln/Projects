@@ -1,0 +1,5 @@
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\8_Atlagolas\bin\Debug\8_Atlagolas.exe.config
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\8_Atlagolas\bin\Debug\8_Atlagolas.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\8_Atlagolas\bin\Debug\8_Atlagolas.pdb
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\8_Atlagolas\obj\Debug\8_Atlagolas.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\8_Atlagolas\obj\Debug\8_Atlagolas.pdb

@@ -1,0 +1,6 @@
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\04_Osztaly_statikus_konstans_tagok\3_Konyv\bin\Debug\3_Konyv.exe.config
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\04_Osztaly_statikus_konstans_tagok\3_Konyv\bin\Debug\3_Konyv.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\04_Osztaly_statikus_konstans_tagok\3_Konyv\bin\Debug\3_Konyv.pdb
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\04_Osztaly_statikus_konstans_tagok\3_Konyv\obj\Debug\3_Konyv.csprojResolveAssemblyReference.cache
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\04_Osztaly_statikus_konstans_tagok\3_Konyv\obj\Debug\3_Konyv.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\04_Osztaly_statikus_konstans_tagok\3_Konyv\obj\Debug\3_Konyv.pdb

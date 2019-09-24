@@ -1,0 +1,5 @@
+c:\users\drauln\documents\visual studio 2017\Projects\11_Klonozas_regularis_kifejezes\4_Szarmaztatott_klonozas\bin\Debug\4_Szarmaztatott_klonozas.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\11_Klonozas_regularis_kifejezes\4_Szarmaztatott_klonozas\bin\Debug\4_Szarmaztatott_klonozas.exe
+c:\users\drauln\documents\visual studio 2017\Projects\11_Klonozas_regularis_kifejezes\4_Szarmaztatott_klonozas\bin\Debug\4_Szarmaztatott_klonozas.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\11_Klonozas_regularis_kifejezes\4_Szarmaztatott_klonozas\obj\Debug\4_Szarmaztatott_klonozas.exe
+c:\users\drauln\documents\visual studio 2017\Projects\11_Klonozas_regularis_kifejezes\4_Szarmaztatott_klonozas\obj\Debug\4_Szarmaztatott_klonozas.pdb

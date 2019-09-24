@@ -1,0 +1,6 @@
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\8_CsaladiKedvezmenyException\bin\Debug\8_CsaladiKedvezmenyException.exe.config
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\8_CsaladiKedvezmenyException\bin\Debug\8_CsaladiKedvezmenyException.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\8_CsaladiKedvezmenyException\bin\Debug\8_CsaladiKedvezmenyException.pdb
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\8_CsaladiKedvezmenyException\obj\Debug\8_CsaladiKedvezmenyException.csprojResolveAssemblyReference.cache
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\8_CsaladiKedvezmenyException\obj\Debug\8_CsaladiKedvezmenyException.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\8_CsaladiKedvezmenyException\obj\Debug\8_CsaladiKedvezmenyException.pdb

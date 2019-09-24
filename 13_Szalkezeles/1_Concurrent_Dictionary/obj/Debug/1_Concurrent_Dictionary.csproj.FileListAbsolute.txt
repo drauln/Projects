@@ -1,0 +1,13 @@
+C:\Users\Drauln\source\repos\13_Szalkezeles\1_Concurrent_Dictionary\obj\Debug\1_Concurrent_Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\Drauln\source\repos\13_Szalkezeles\1_Concurrent_Dictionary\obj\Debug\1_Concurrent_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Drauln\source\repos\13_Szalkezeles\1_Concurrent_Dictionary\bin\Debug\1_Concurrent_Dictionary.exe.config
+C:\Users\Drauln\source\repos\13_Szalkezeles\1_Concurrent_Dictionary\bin\Debug\1_Concurrent_Dictionary.exe
+C:\Users\Drauln\source\repos\13_Szalkezeles\1_Concurrent_Dictionary\bin\Debug\1_Concurrent_Dictionary.pdb
+C:\Users\Drauln\source\repos\13_Szalkezeles\1_Concurrent_Dictionary\obj\Debug\1_Concurrent_Dictionary.exe
+C:\Users\Drauln\source\repos\13_Szalkezeles\1_Concurrent_Dictionary\obj\Debug\1_Concurrent_Dictionary.pdb
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\13_Szalkezeles\1_Concurrent_Dictionary\bin\Debug\1_Concurrent_Dictionary.exe.config
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\13_Szalkezeles\1_Concurrent_Dictionary\bin\Debug\1_Concurrent_Dictionary.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\13_Szalkezeles\1_Concurrent_Dictionary\bin\Debug\1_Concurrent_Dictionary.pdb
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\13_Szalkezeles\1_Concurrent_Dictionary\obj\Debug\1_Concurrent_Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\13_Szalkezeles\1_Concurrent_Dictionary\obj\Debug\1_Concurrent_Dictionary.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\13_Szalkezeles\1_Concurrent_Dictionary\obj\Debug\1_Concurrent_Dictionary.pdb

@@ -1,0 +1,6 @@
+c:\users\drauln\documents\visual studio 2017\Projects\04_Osztaly_statikus_konstans_tagok\2_Tures\bin\Debug\2_Tures.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\04_Osztaly_statikus_konstans_tagok\2_Tures\bin\Debug\2_Tures.exe
+c:\users\drauln\documents\visual studio 2017\Projects\04_Osztaly_statikus_konstans_tagok\2_Tures\bin\Debug\2_Tures.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\04_Osztaly_statikus_konstans_tagok\2_Tures\obj\Debug\2_Tures.csprojResolveAssemblyReference.cache
+c:\users\drauln\documents\visual studio 2017\Projects\04_Osztaly_statikus_konstans_tagok\2_Tures\obj\Debug\2_Tures.exe
+c:\users\drauln\documents\visual studio 2017\Projects\04_Osztaly_statikus_konstans_tagok\2_Tures\obj\Debug\2_Tures.pdb

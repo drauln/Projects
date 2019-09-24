@@ -1,0 +1,6 @@
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\4_Rendezett_lista\bin\Debug\4_Rendezett_lista.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\4_Rendezett_lista\bin\Debug\4_Rendezett_lista.exe
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\4_Rendezett_lista\bin\Debug\4_Rendezett_lista.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\4_Rendezett_lista\obj\Debug\4_Rendezett_lista.exe
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\4_Rendezett_lista\obj\Debug\4_Rendezett_lista.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\4_Rendezett_lista\obj\Debug\4_Rendezett_lista.csprojResolveAssemblyReference.cache

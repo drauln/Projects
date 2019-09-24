@@ -1,0 +1,5 @@
+c:\users\drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\2_Tomb_hasznalata\bin\Debug\2_Tomb_hasznalata.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\2_Tomb_hasznalata\bin\Debug\2_Tomb_hasznalata.exe
+c:\users\drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\2_Tomb_hasznalata\bin\Debug\2_Tomb_hasznalata.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\2_Tomb_hasznalata\obj\Debug\2_Tomb_hasznalata.exe
+c:\users\drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\2_Tomb_hasznalata\obj\Debug\2_Tomb_hasznalata.pdb

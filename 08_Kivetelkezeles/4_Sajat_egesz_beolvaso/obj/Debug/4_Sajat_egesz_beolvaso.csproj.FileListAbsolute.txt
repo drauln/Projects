@@ -1,0 +1,6 @@
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\4_Sajat_egesz_beolvaso\bin\Debug\4_Sajat_egesz_beolvaso.exe.config
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\4_Sajat_egesz_beolvaso\bin\Debug\4_Sajat_egesz_beolvaso.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\4_Sajat_egesz_beolvaso\bin\Debug\4_Sajat_egesz_beolvaso.pdb
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\4_Sajat_egesz_beolvaso\obj\Debug\4_Sajat_egesz_beolvaso.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\4_Sajat_egesz_beolvaso\obj\Debug\4_Sajat_egesz_beolvaso.pdb
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\4_Sajat_egesz_beolvaso\obj\Debug\4_Sajat_egesz_beolvaso.csprojResolveAssemblyReference.cache

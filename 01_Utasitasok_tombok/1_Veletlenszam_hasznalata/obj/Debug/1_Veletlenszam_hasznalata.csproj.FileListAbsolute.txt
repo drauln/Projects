@@ -1,0 +1,5 @@
+c:\users\drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\1_Veletlenszam_hasznalata\bin\Debug\1_Veletlenszam_hasznalata.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\1_Veletlenszam_hasznalata\bin\Debug\1_Veletlenszam_hasznalata.exe
+c:\users\drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\1_Veletlenszam_hasznalata\bin\Debug\1_Veletlenszam_hasznalata.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\1_Veletlenszam_hasznalata\obj\Debug\1_Veletlenszam_hasznalata.exe
+c:\users\drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\1_Veletlenszam_hasznalata\obj\Debug\1_Veletlenszam_hasznalata.pdb

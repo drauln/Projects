@@ -1,0 +1,6 @@
+c:\users\drauln\documents\visual studio 2017\Projects\07_Enum\1_Testsuly_tablazat\bin\Debug\1_Testsuly_tablazat.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\07_Enum\1_Testsuly_tablazat\bin\Debug\1_Testsuly_tablazat.exe
+c:\users\drauln\documents\visual studio 2017\Projects\07_Enum\1_Testsuly_tablazat\bin\Debug\1_Testsuly_tablazat.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\07_Enum\1_Testsuly_tablazat\obj\Debug\1_Testsuly_tablazat.csprojResolveAssemblyReference.cache
+c:\users\drauln\documents\visual studio 2017\Projects\07_Enum\1_Testsuly_tablazat\obj\Debug\1_Testsuly_tablazat.exe
+c:\users\drauln\documents\visual studio 2017\Projects\07_Enum\1_Testsuly_tablazat\obj\Debug\1_Testsuly_tablazat.pdb

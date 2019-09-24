@@ -1,0 +1,6 @@
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\1_Tipusos_lista\bin\Debug\1_Tipusos_lista.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\1_Tipusos_lista\bin\Debug\1_Tipusos_lista.exe
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\1_Tipusos_lista\bin\Debug\1_Tipusos_lista.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\1_Tipusos_lista\obj\Debug\1_Tipusos_lista.csprojResolveAssemblyReference.cache
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\1_Tipusos_lista\obj\Debug\1_Tipusos_lista.exe
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\1_Tipusos_lista\obj\Debug\1_Tipusos_lista.pdb

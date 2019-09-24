@@ -1,0 +1,5 @@
+C:\Users\Drauln\documents\visual studio 2017\Projects\02_Osztaly_es_hasznalata\3_Tulajdonsag_property\bin\Debug\3_Tulajdonsag_property.exe.config
+C:\Users\Drauln\documents\visual studio 2017\Projects\02_Osztaly_es_hasznalata\3_Tulajdonsag_property\bin\Debug\3_Tulajdonsag_property.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\02_Osztaly_es_hasznalata\3_Tulajdonsag_property\bin\Debug\3_Tulajdonsag_property.pdb
+C:\Users\Drauln\documents\visual studio 2017\Projects\02_Osztaly_es_hasznalata\3_Tulajdonsag_property\obj\Debug\3_Tulajdonsag_property.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\02_Osztaly_es_hasznalata\3_Tulajdonsag_property\obj\Debug\3_Tulajdonsag_property.pdb

@@ -1,0 +1,6 @@
+c:\users\drauln\documents\visual studio 2017\Projects\04_Osztaly_statikus_konstans_tagok\1_Szemely\bin\Debug\1_Szemely.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\04_Osztaly_statikus_konstans_tagok\1_Szemely\bin\Debug\1_Szemely.exe
+c:\users\drauln\documents\visual studio 2017\Projects\04_Osztaly_statikus_konstans_tagok\1_Szemely\bin\Debug\1_Szemely.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\04_Osztaly_statikus_konstans_tagok\1_Szemely\obj\Debug\1_Szemely.csprojResolveAssemblyReference.cache
+c:\users\drauln\documents\visual studio 2017\Projects\04_Osztaly_statikus_konstans_tagok\1_Szemely\obj\Debug\1_Szemely.exe
+c:\users\drauln\documents\visual studio 2017\Projects\04_Osztaly_statikus_konstans_tagok\1_Szemely\obj\Debug\1_Szemely.pdb

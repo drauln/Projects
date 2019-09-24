@@ -1,0 +1,6 @@
+c:\users\drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\3_Sajat_kivetel\bin\Debug\3_Sajat_kivetel.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\3_Sajat_kivetel\bin\Debug\3_Sajat_kivetel.exe
+c:\users\drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\3_Sajat_kivetel\bin\Debug\3_Sajat_kivetel.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\3_Sajat_kivetel\obj\Debug\3_Sajat_kivetel.csprojResolveAssemblyReference.cache
+c:\users\drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\3_Sajat_kivetel\obj\Debug\3_Sajat_kivetel.exe
+c:\users\drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\3_Sajat_kivetel\obj\Debug\3_Sajat_kivetel.pdb

@@ -1,0 +1,5 @@
+c:\users\drauln\documents\visual studio 2017\Projects\05_Oroklodes_feluldefinialas_referenciak_tipusai\1_Konyv_stilussal\bin\Debug\1_Konyv_stilussal.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\05_Oroklodes_feluldefinialas_referenciak_tipusai\1_Konyv_stilussal\bin\Debug\1_Konyv_stilussal.exe
+c:\users\drauln\documents\visual studio 2017\Projects\05_Oroklodes_feluldefinialas_referenciak_tipusai\1_Konyv_stilussal\bin\Debug\1_Konyv_stilussal.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\05_Oroklodes_feluldefinialas_referenciak_tipusai\1_Konyv_stilussal\obj\Debug\1_Konyv_stilussal.exe
+c:\users\drauln\documents\visual studio 2017\Projects\05_Oroklodes_feluldefinialas_referenciak_tipusai\1_Konyv_stilussal\obj\Debug\1_Konyv_stilussal.pdb

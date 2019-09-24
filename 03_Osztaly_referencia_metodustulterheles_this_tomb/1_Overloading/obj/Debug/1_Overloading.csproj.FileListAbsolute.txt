@@ -1,0 +1,5 @@
+c:\users\drauln\documents\visual studio 2017\Projects\03_Osztaly_referencia_metodustulterheles_this_tomb\1_Overloading\bin\Debug\1_Overloading.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\03_Osztaly_referencia_metodustulterheles_this_tomb\1_Overloading\bin\Debug\1_Overloading.exe
+c:\users\drauln\documents\visual studio 2017\Projects\03_Osztaly_referencia_metodustulterheles_this_tomb\1_Overloading\bin\Debug\1_Overloading.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\03_Osztaly_referencia_metodustulterheles_this_tomb\1_Overloading\obj\Debug\1_Overloading.exe
+c:\users\drauln\documents\visual studio 2017\Projects\03_Osztaly_referencia_metodustulterheles_this_tomb\1_Overloading\obj\Debug\1_Overloading.pdb

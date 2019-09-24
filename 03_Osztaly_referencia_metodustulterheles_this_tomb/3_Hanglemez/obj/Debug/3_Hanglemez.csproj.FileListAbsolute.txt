@@ -1,0 +1,5 @@
+C:\Users\Drauln\documents\visual studio 2017\Projects\03_Osztaly_referencia_metodustulterheles_this_tomb\3_Hanglemez\bin\Debug\3_Hanglemez.exe.config
+C:\Users\Drauln\documents\visual studio 2017\Projects\03_Osztaly_referencia_metodustulterheles_this_tomb\3_Hanglemez\bin\Debug\3_Hanglemez.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\03_Osztaly_referencia_metodustulterheles_this_tomb\3_Hanglemez\bin\Debug\3_Hanglemez.pdb
+C:\Users\Drauln\documents\visual studio 2017\Projects\03_Osztaly_referencia_metodustulterheles_this_tomb\3_Hanglemez\obj\Debug\3_Hanglemez.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\03_Osztaly_referencia_metodustulterheles_this_tomb\3_Hanglemez\obj\Debug\3_Hanglemez.pdb

@@ -1,0 +1,5 @@
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\5_Tipusos_szotar\bin\Debug\5_Tipusos_szotar.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\5_Tipusos_szotar\bin\Debug\5_Tipusos_szotar.exe
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\5_Tipusos_szotar\bin\Debug\5_Tipusos_szotar.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\5_Tipusos_szotar\obj\Debug\5_Tipusos_szotar.exe
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\5_Tipusos_szotar\obj\Debug\5_Tipusos_szotar.pdb

@@ -1,0 +1,5 @@
+c:\users\drauln\documents\visual studio 2017\Projects\18_Fajlkezeles_sorositas\2_Binaris_fajl\bin\Debug\2_Binaris_fajl.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\18_Fajlkezeles_sorositas\2_Binaris_fajl\bin\Debug\2_Binaris_fajl.exe
+c:\users\drauln\documents\visual studio 2017\Projects\18_Fajlkezeles_sorositas\2_Binaris_fajl\bin\Debug\2_Binaris_fajl.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\18_Fajlkezeles_sorositas\2_Binaris_fajl\obj\Debug\2_Binaris_fajl.exe
+c:\users\drauln\documents\visual studio 2017\Projects\18_Fajlkezeles_sorositas\2_Binaris_fajl\obj\Debug\2_Binaris_fajl.pdb

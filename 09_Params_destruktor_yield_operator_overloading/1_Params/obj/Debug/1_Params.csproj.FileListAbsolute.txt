@@ -1,0 +1,6 @@
+c:\users\drauln\documents\visual studio 2017\Projects\09_Params_destruktor_yield_operator_overloading\1_Params\bin\Debug\1_Params.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\09_Params_destruktor_yield_operator_overloading\1_Params\bin\Debug\1_Params.exe
+c:\users\drauln\documents\visual studio 2017\Projects\09_Params_destruktor_yield_operator_overloading\1_Params\bin\Debug\1_Params.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\09_Params_destruktor_yield_operator_overloading\1_Params\obj\Debug\1_Params.exe
+c:\users\drauln\documents\visual studio 2017\Projects\09_Params_destruktor_yield_operator_overloading\1_Params\obj\Debug\1_Params.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\09_Params_destruktor_yield_operator_overloading\1_Params\obj\Debug\1_Params.csprojResolveAssemblyReference.cache

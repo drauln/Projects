@@ -1,0 +1,6 @@
+c:\users\drauln\documents\visual studio 2017\Projects\18_Fajlkezeles_sorositas\1_Szoveges_fajl\bin\Debug\1_Szoveges_fajl.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\18_Fajlkezeles_sorositas\1_Szoveges_fajl\bin\Debug\1_Szoveges_fajl.exe
+c:\users\drauln\documents\visual studio 2017\Projects\18_Fajlkezeles_sorositas\1_Szoveges_fajl\bin\Debug\1_Szoveges_fajl.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\18_Fajlkezeles_sorositas\1_Szoveges_fajl\obj\Debug\1_Szoveges_fajl.csprojResolveAssemblyReference.cache
+c:\users\drauln\documents\visual studio 2017\Projects\18_Fajlkezeles_sorositas\1_Szoveges_fajl\obj\Debug\1_Szoveges_fajl.exe
+c:\users\drauln\documents\visual studio 2017\Projects\18_Fajlkezeles_sorositas\1_Szoveges_fajl\obj\Debug\1_Szoveges_fajl.pdb

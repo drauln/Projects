@@ -1,0 +1,5 @@
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\3_While_ciklus\bin\Debug\3_While_ciklus.exe.config
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\3_While_ciklus\bin\Debug\3_While_ciklus.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\3_While_ciklus\bin\Debug\3_While_ciklus.pdb
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\3_While_ciklus\obj\Debug\3_While_ciklus.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\3_While_ciklus\obj\Debug\3_While_ciklus.pdb

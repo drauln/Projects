@@ -1,0 +1,7 @@
+C:\Users\Drauln\source\repos\13_Szalkezeles\2_ConcurrentStack\bin\Debug\2_ConcurrentStack.exe.config
+C:\Users\Drauln\source\repos\13_Szalkezeles\2_ConcurrentStack\bin\Debug\2_ConcurrentStack.exe
+C:\Users\Drauln\source\repos\13_Szalkezeles\2_ConcurrentStack\bin\Debug\2_ConcurrentStack.pdb
+C:\Users\Drauln\source\repos\13_Szalkezeles\2_ConcurrentStack\obj\Debug\2_ConcurrentStack.csprojResolveAssemblyReference.cache
+C:\Users\Drauln\source\repos\13_Szalkezeles\2_ConcurrentStack\obj\Debug\2_ConcurrentStack.csproj.CoreCompileInputs.cache
+C:\Users\Drauln\source\repos\13_Szalkezeles\2_ConcurrentStack\obj\Debug\2_ConcurrentStack.exe
+C:\Users\Drauln\source\repos\13_Szalkezeles\2_ConcurrentStack\obj\Debug\2_ConcurrentStack.pdb

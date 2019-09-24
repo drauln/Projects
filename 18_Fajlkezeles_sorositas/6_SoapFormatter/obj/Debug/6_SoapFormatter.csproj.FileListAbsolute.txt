@@ -1,0 +1,6 @@
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\18_Fajlkezeles_sorositas\6_SoapFormatter\bin\Debug\6_SoapFormatter.exe.config
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\18_Fajlkezeles_sorositas\6_SoapFormatter\bin\Debug\6_SoapFormatter.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\18_Fajlkezeles_sorositas\6_SoapFormatter\bin\Debug\6_SoapFormatter.pdb
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\18_Fajlkezeles_sorositas\6_SoapFormatter\obj\Debug\6_SoapFormatter.csprojResolveAssemblyReference.cache
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\18_Fajlkezeles_sorositas\6_SoapFormatter\obj\Debug\6_SoapFormatter.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\18_Fajlkezeles_sorositas\6_SoapFormatter\obj\Debug\6_SoapFormatter.pdb

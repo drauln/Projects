@@ -1,0 +1,6 @@
+c:\users\drauln\documents\visual studio 2017\Projects\06_Absztrakt_osztaly_interace\4_Haj_es_szem\bin\Debug\4_Haj_es_szem.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\06_Absztrakt_osztaly_interace\4_Haj_es_szem\bin\Debug\4_Haj_es_szem.exe
+c:\users\drauln\documents\visual studio 2017\Projects\06_Absztrakt_osztaly_interace\4_Haj_es_szem\bin\Debug\4_Haj_es_szem.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\06_Absztrakt_osztaly_interace\4_Haj_es_szem\obj\Debug\4_Haj_es_szem.csprojResolveAssemblyReference.cache
+c:\users\drauln\documents\visual studio 2017\Projects\06_Absztrakt_osztaly_interace\4_Haj_es_szem\obj\Debug\4_Haj_es_szem.exe
+c:\users\drauln\documents\visual studio 2017\Projects\06_Absztrakt_osztaly_interace\4_Haj_es_szem\obj\Debug\4_Haj_es_szem.pdb

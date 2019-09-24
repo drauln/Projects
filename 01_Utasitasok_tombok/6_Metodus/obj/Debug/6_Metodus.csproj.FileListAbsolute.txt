@@ -1,0 +1,5 @@
+C:\Users\Drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\6_Metodus\bin\Debug\6_Metodus.exe.config
+C:\Users\Drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\6_Metodus\bin\Debug\6_Metodus.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\6_Metodus\bin\Debug\6_Metodus.pdb
+C:\Users\Drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\6_Metodus\obj\Debug\6_Metodus.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\6_Metodus\obj\Debug\6_Metodus.pdb

@@ -1,0 +1,5 @@
+c:\users\drauln\documents\visual studio 2017\Projects\11_Klonozas_regularis_kifejezes\2_Mely_masolas\bin\Debug\2_Mely_masolas.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\11_Klonozas_regularis_kifejezes\2_Mely_masolas\bin\Debug\2_Mely_masolas.exe
+c:\users\drauln\documents\visual studio 2017\Projects\11_Klonozas_regularis_kifejezes\2_Mely_masolas\bin\Debug\2_Mely_masolas.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\11_Klonozas_regularis_kifejezes\2_Mely_masolas\obj\Debug\2_Mely_masolas.exe
+c:\users\drauln\documents\visual studio 2017\Projects\11_Klonozas_regularis_kifejezes\2_Mely_masolas\obj\Debug\2_Mely_masolas.pdb

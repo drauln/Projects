@@ -1,0 +1,6 @@
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\D_Generikus_tomb_osztaly\bin\Debug\D_Generikus_tomb_osztaly.exe.config
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\D_Generikus_tomb_osztaly\bin\Debug\D_Generikus_tomb_osztaly.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\D_Generikus_tomb_osztaly\bin\Debug\D_Generikus_tomb_osztaly.pdb
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\D_Generikus_tomb_osztaly\obj\Debug\D_Generikus_tomb_osztaly.csprojResolveAssemblyReference.cache
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\D_Generikus_tomb_osztaly\obj\Debug\D_Generikus_tomb_osztaly.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\D_Generikus_tomb_osztaly\obj\Debug\D_Generikus_tomb_osztaly.pdb

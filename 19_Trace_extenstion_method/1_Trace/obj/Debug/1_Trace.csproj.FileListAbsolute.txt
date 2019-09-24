@@ -1,0 +1,6 @@
+c:\users\drauln\documents\visual studio 2017\Projects\19_Trace_extenstion_method\1_Trace\bin\Debug\1_Trace.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\19_Trace_extenstion_method\1_Trace\bin\Debug\1_Trace.exe
+c:\users\drauln\documents\visual studio 2017\Projects\19_Trace_extenstion_method\1_Trace\bin\Debug\1_Trace.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\19_Trace_extenstion_method\1_Trace\obj\Debug\1_Trace.csprojResolveAssemblyReference.cache
+c:\users\drauln\documents\visual studio 2017\Projects\19_Trace_extenstion_method\1_Trace\obj\Debug\1_Trace.exe
+c:\users\drauln\documents\visual studio 2017\Projects\19_Trace_extenstion_method\1_Trace\obj\Debug\1_Trace.pdb

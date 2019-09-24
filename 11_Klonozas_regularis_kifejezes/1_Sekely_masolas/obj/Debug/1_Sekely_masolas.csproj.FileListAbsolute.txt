@@ -1,0 +1,6 @@
+c:\users\drauln\documents\visual studio 2017\Projects\11_Klonozas_regularis_kifejezes\1_Sekely_masolas\bin\Debug\1_Sekely_masolas.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\11_Klonozas_regularis_kifejezes\1_Sekely_masolas\bin\Debug\1_Sekely_masolas.exe
+c:\users\drauln\documents\visual studio 2017\Projects\11_Klonozas_regularis_kifejezes\1_Sekely_masolas\bin\Debug\1_Sekely_masolas.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\11_Klonozas_regularis_kifejezes\1_Sekely_masolas\obj\Debug\1_Sekely_masolas.csprojResolveAssemblyReference.cache
+c:\users\drauln\documents\visual studio 2017\Projects\11_Klonozas_regularis_kifejezes\1_Sekely_masolas\obj\Debug\1_Sekely_masolas.exe
+c:\users\drauln\documents\visual studio 2017\Projects\11_Klonozas_regularis_kifejezes\1_Sekely_masolas\obj\Debug\1_Sekely_masolas.pdb

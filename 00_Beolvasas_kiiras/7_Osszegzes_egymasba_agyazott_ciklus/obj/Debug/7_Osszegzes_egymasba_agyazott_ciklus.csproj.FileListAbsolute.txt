@@ -1,0 +1,5 @@
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\7_Osszegzes_egymasba_agyazott_ciklus\bin\Debug\7_Osszegzes_egymasba_agyazott_ciklus.exe.config
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\7_Osszegzes_egymasba_agyazott_ciklus\bin\Debug\7_Osszegzes_egymasba_agyazott_ciklus.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\7_Osszegzes_egymasba_agyazott_ciklus\bin\Debug\7_Osszegzes_egymasba_agyazott_ciklus.pdb
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\7_Osszegzes_egymasba_agyazott_ciklus\obj\Debug\7_Osszegzes_egymasba_agyazott_ciklus.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\7_Osszegzes_egymasba_agyazott_ciklus\obj\Debug\7_Osszegzes_egymasba_agyazott_ciklus.pdb

@@ -1,0 +1,5 @@
+c:\users\drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\2_Osztas_nullaval\bin\Debug\2_Osztas_nullaval.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\2_Osztas_nullaval\bin\Debug\2_Osztas_nullaval.exe
+c:\users\drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\2_Osztas_nullaval\bin\Debug\2_Osztas_nullaval.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\2_Osztas_nullaval\obj\Debug\2_Osztas_nullaval.exe
+c:\users\drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\2_Osztas_nullaval\obj\Debug\2_Osztas_nullaval.pdb

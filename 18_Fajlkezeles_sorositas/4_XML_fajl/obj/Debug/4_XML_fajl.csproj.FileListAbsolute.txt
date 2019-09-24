@@ -1,0 +1,6 @@
+c:\users\drauln\documents\visual studio 2017\Projects\18_Fajlkezeles_sorositas\4_XML_fajl\bin\Debug\4_XML_fajl.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\18_Fajlkezeles_sorositas\4_XML_fajl\bin\Debug\4_XML_fajl.exe
+c:\users\drauln\documents\visual studio 2017\Projects\18_Fajlkezeles_sorositas\4_XML_fajl\bin\Debug\4_XML_fajl.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\18_Fajlkezeles_sorositas\4_XML_fajl\obj\Debug\4_XML_fajl.exe
+c:\users\drauln\documents\visual studio 2017\Projects\18_Fajlkezeles_sorositas\4_XML_fajl\obj\Debug\4_XML_fajl.pdb
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\18_Fajlkezeles_sorositas\4_XML_fajl\obj\Debug\4_XML_fajl.csprojResolveAssemblyReference.cache

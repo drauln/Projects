@@ -1,0 +1,6 @@
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\07_Enum\3_Haj_es_szem_enummal\bin\Debug\3_Haj_es_szem_enummal.exe.config
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\07_Enum\3_Haj_es_szem_enummal\bin\Debug\3_Haj_es_szem_enummal.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\07_Enum\3_Haj_es_szem_enummal\bin\Debug\3_Haj_es_szem_enummal.pdb
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\07_Enum\3_Haj_es_szem_enummal\obj\Debug\3_Haj_es_szem_enummal.csprojResolveAssemblyReference.cache
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\07_Enum\3_Haj_es_szem_enummal\obj\Debug\3_Haj_es_szem_enummal.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\07_Enum\3_Haj_es_szem_enummal\obj\Debug\3_Haj_es_szem_enummal.pdb

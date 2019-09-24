@@ -1,0 +1,5 @@
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\02_Osztaly_es_hasznalata\4_Konstruktor\bin\Debug\4_Konstruktor.exe.config
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\02_Osztaly_es_hasznalata\4_Konstruktor\bin\Debug\4_Konstruktor.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\02_Osztaly_es_hasznalata\4_Konstruktor\bin\Debug\4_Konstruktor.pdb
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\02_Osztaly_es_hasznalata\4_Konstruktor\obj\Debug\4_Konstruktor.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\02_Osztaly_es_hasznalata\4_Konstruktor\obj\Debug\4_Konstruktor.pdb

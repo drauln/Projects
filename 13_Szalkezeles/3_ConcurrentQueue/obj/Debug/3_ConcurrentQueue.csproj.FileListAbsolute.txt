@@ -1,0 +1,6 @@
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\13_Szalkezeles\3_ConcurrentQueue\bin\Debug\3_ConcurrentQueue.exe.config
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\13_Szalkezeles\3_ConcurrentQueue\bin\Debug\3_ConcurrentQueue.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\13_Szalkezeles\3_ConcurrentQueue\bin\Debug\3_ConcurrentQueue.pdb
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\13_Szalkezeles\3_ConcurrentQueue\obj\Debug\3_ConcurrentQueue.csprojResolveAssemblyReference.cache
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\13_Szalkezeles\3_ConcurrentQueue\obj\Debug\3_ConcurrentQueue.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\13_Szalkezeles\3_ConcurrentQueue\obj\Debug\3_ConcurrentQueue.pdb

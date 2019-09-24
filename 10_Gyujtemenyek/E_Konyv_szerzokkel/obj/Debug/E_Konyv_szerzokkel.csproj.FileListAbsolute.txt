@@ -1,0 +1,6 @@
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\E_Konyv_szerzokkel\bin\Debug\E_Konyv_szerzokkel.exe.config
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\E_Konyv_szerzokkel\bin\Debug\E_Konyv_szerzokkel.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\E_Konyv_szerzokkel\bin\Debug\E_Konyv_szerzokkel.pdb
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\E_Konyv_szerzokkel\obj\Debug\E_Konyv_szerzokkel.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\E_Konyv_szerzokkel\obj\Debug\E_Konyv_szerzokkel.pdb
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\E_Konyv_szerzokkel\obj\Debug\E_Konyv_szerzokkel.csprojResolveAssemblyReference.cache

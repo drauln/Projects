@@ -1,0 +1,6 @@
+c:\users\drauln\documents\visual studio 2017\Projects\18_Fajlkezeles_sorositas\3_Bajtfajl\bin\Debug\3_Bajtfajl.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\18_Fajlkezeles_sorositas\3_Bajtfajl\bin\Debug\3_Bajtfajl.exe
+c:\users\drauln\documents\visual studio 2017\Projects\18_Fajlkezeles_sorositas\3_Bajtfajl\bin\Debug\3_Bajtfajl.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\18_Fajlkezeles_sorositas\3_Bajtfajl\obj\Debug\3_Bajtfajl.exe
+c:\users\drauln\documents\visual studio 2017\Projects\18_Fajlkezeles_sorositas\3_Bajtfajl\obj\Debug\3_Bajtfajl.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\18_Fajlkezeles_sorositas\3_Bajtfajl\obj\Debug\3_Bajtfajl.csprojResolveAssemblyReference.cache

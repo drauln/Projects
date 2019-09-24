@@ -1,0 +1,6 @@
+c:\users\drauln\documents\visual studio 2017\Projects\12_Osszehasonlitas_rendezes\1_IComparable\bin\Debug\1_IComparable.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\12_Osszehasonlitas_rendezes\1_IComparable\bin\Debug\1_IComparable.exe
+c:\users\drauln\documents\visual studio 2017\Projects\12_Osszehasonlitas_rendezes\1_IComparable\bin\Debug\1_IComparable.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\12_Osszehasonlitas_rendezes\1_IComparable\obj\Debug\1_IComparable.csprojResolveAssemblyReference.cache
+c:\users\drauln\documents\visual studio 2017\Projects\12_Osszehasonlitas_rendezes\1_IComparable\obj\Debug\1_IComparable.exe
+c:\users\drauln\documents\visual studio 2017\Projects\12_Osszehasonlitas_rendezes\1_IComparable\obj\Debug\1_IComparable.pdb

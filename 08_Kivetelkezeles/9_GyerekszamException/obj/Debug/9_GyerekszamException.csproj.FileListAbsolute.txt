@@ -1,0 +1,5 @@
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\9_GyerekszamException\bin\Debug\9_GyerekszamException.exe.config
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\9_GyerekszamException\bin\Debug\9_GyerekszamException.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\9_GyerekszamException\bin\Debug\9_GyerekszamException.pdb
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\9_GyerekszamException\obj\Debug\9_GyerekszamException.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\9_GyerekszamException\obj\Debug\9_GyerekszamException.pdb

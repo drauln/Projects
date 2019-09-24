@@ -1,0 +1,5 @@
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\18_Fajlkezeles_sorositas\9_Csalados_szemely_sorositasa\bin\Debug\9_Csalados_szemely_sorositasa.exe.config
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\18_Fajlkezeles_sorositas\9_Csalados_szemely_sorositasa\bin\Debug\9_Csalados_szemely_sorositasa.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\18_Fajlkezeles_sorositas\9_Csalados_szemely_sorositasa\bin\Debug\9_Csalados_szemely_sorositasa.pdb
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\18_Fajlkezeles_sorositas\9_Csalados_szemely_sorositasa\obj\Debug\9_Csalados_szemely_sorositasa.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\18_Fajlkezeles_sorositas\9_Csalados_szemely_sorositasa\obj\Debug\9_Csalados_szemely_sorositasa.pdb

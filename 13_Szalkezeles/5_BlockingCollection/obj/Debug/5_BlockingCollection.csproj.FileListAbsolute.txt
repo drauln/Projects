@@ -1,0 +1,5 @@
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\13_Szalkezeles\5_BlockingCollection\bin\Debug\5_BlockingCollection.exe.config
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\13_Szalkezeles\5_BlockingCollection\bin\Debug\5_BlockingCollection.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\13_Szalkezeles\5_BlockingCollection\bin\Debug\5_BlockingCollection.pdb
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\13_Szalkezeles\5_BlockingCollection\obj\Debug\5_BlockingCollection.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\13_Szalkezeles\5_BlockingCollection\obj\Debug\5_BlockingCollection.pdb

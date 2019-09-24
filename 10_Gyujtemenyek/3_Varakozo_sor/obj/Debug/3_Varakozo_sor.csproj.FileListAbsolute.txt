@@ -1,0 +1,5 @@
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\3_Varakozo_sor\bin\Debug\3_Varakozo_sor.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\3_Varakozo_sor\bin\Debug\3_Varakozo_sor.exe
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\3_Varakozo_sor\bin\Debug\3_Varakozo_sor.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\3_Varakozo_sor\obj\Debug\3_Varakozo_sor.exe
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\3_Varakozo_sor\obj\Debug\3_Varakozo_sor.pdb

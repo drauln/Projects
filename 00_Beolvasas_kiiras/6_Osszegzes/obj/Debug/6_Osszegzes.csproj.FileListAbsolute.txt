@@ -1,0 +1,5 @@
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\6_Osszegzes\bin\Debug\6_Osszegzes.exe.config
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\6_Osszegzes\bin\Debug\6_Osszegzes.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\6_Osszegzes\bin\Debug\6_Osszegzes.pdb
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\6_Osszegzes\obj\Debug\6_Osszegzes.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\6_Osszegzes\obj\Debug\6_Osszegzes.pdb

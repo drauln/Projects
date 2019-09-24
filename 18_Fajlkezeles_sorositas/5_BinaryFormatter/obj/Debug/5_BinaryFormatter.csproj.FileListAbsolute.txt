@@ -1,0 +1,5 @@
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\18_Fajlkezeles_sorositas\5_BinaryFormatter\bin\Debug\5_BinaryFormatter.exe.config
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\18_Fajlkezeles_sorositas\5_BinaryFormatter\bin\Debug\5_BinaryFormatter.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\18_Fajlkezeles_sorositas\5_BinaryFormatter\bin\Debug\5_BinaryFormatter.pdb
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\18_Fajlkezeles_sorositas\5_BinaryFormatter\obj\Debug\5_BinaryFormatter.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\18_Fajlkezeles_sorositas\5_BinaryFormatter\obj\Debug\5_BinaryFormatter.pdb

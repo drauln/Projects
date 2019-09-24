@@ -1,0 +1,5 @@
+c:\users\drauln\documents\visual studio 2017\Projects\02_Osztaly_es_hasznalata\2_Privat_adattag\bin\Debug\2_Privat_adattag.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\02_Osztaly_es_hasznalata\2_Privat_adattag\bin\Debug\2_Privat_adattag.exe
+c:\users\drauln\documents\visual studio 2017\Projects\02_Osztaly_es_hasznalata\2_Privat_adattag\bin\Debug\2_Privat_adattag.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\02_Osztaly_es_hasznalata\2_Privat_adattag\obj\Debug\2_Privat_adattag.exe
+c:\users\drauln\documents\visual studio 2017\Projects\02_Osztaly_es_hasznalata\2_Privat_adattag\obj\Debug\2_Privat_adattag.pdb

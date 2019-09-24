@@ -1,0 +1,5 @@
+C:\Users\Drauln\documents\visual studio 2017\Projects\02_Osztaly_es_hasznalata\5_Metodusok\bin\Debug\5_Metodusok.exe.config
+C:\Users\Drauln\documents\visual studio 2017\Projects\02_Osztaly_es_hasznalata\5_Metodusok\bin\Debug\5_Metodusok.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\02_Osztaly_es_hasznalata\5_Metodusok\bin\Debug\5_Metodusok.pdb
+C:\Users\Drauln\documents\visual studio 2017\Projects\02_Osztaly_es_hasznalata\5_Metodusok\obj\Debug\5_Metodusok.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\02_Osztaly_es_hasznalata\5_Metodusok\obj\Debug\5_Metodusok.pdb

@@ -1,0 +1,5 @@
+c:\users\drauln\documents\visual studio 2017\Projects\05_Oroklodes_feluldefinialas_referenciak_tipusai\2_Csalados_szemely\bin\Debug\2_Csalados_szemely.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\05_Oroklodes_feluldefinialas_referenciak_tipusai\2_Csalados_szemely\bin\Debug\2_Csalados_szemely.exe
+c:\users\drauln\documents\visual studio 2017\Projects\05_Oroklodes_feluldefinialas_referenciak_tipusai\2_Csalados_szemely\bin\Debug\2_Csalados_szemely.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\05_Oroklodes_feluldefinialas_referenciak_tipusai\2_Csalados_szemely\obj\Debug\2_Csalados_szemely.exe
+c:\users\drauln\documents\visual studio 2017\Projects\05_Oroklodes_feluldefinialas_referenciak_tipusai\2_Csalados_szemely\obj\Debug\2_Csalados_szemely.pdb

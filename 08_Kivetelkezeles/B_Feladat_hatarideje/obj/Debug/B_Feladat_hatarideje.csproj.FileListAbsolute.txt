@@ -1,0 +1,6 @@
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\B_Feladat_hatarideje\bin\Debug\B_Feladat_hatarideje.exe.config
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\B_Feladat_hatarideje\bin\Debug\B_Feladat_hatarideje.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\B_Feladat_hatarideje\bin\Debug\B_Feladat_hatarideje.pdb
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\B_Feladat_hatarideje\obj\Debug\B_Feladat_hatarideje.csprojResolveAssemblyReference.cache
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\B_Feladat_hatarideje\obj\Debug\B_Feladat_hatarideje.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\B_Feladat_hatarideje\obj\Debug\B_Feladat_hatarideje.pdb

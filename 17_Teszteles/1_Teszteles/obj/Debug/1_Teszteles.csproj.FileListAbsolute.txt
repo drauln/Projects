@@ -1,0 +1,5 @@
+c:\users\drauln\documents\visual studio 2017\Projects\17_Teszteles\1_Teszteles\bin\Debug\1_Teszteles.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\17_Teszteles\1_Teszteles\bin\Debug\1_Teszteles.exe
+c:\users\drauln\documents\visual studio 2017\Projects\17_Teszteles\1_Teszteles\bin\Debug\1_Teszteles.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\17_Teszteles\1_Teszteles\obj\Debug\1_Teszteles.exe
+c:\users\drauln\documents\visual studio 2017\Projects\17_Teszteles\1_Teszteles\obj\Debug\1_Teszteles.pdb

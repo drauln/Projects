@@ -1,0 +1,6 @@
+C:\Users\Drauln\documents\visual studio 2017\Projects\09_Params_destruktor_yield_operator_overloading\4_Muveletek_tulterhelese\bin\Debug\4_Muveletek_tulterhelese.exe.config
+C:\Users\Drauln\documents\visual studio 2017\Projects\09_Params_destruktor_yield_operator_overloading\4_Muveletek_tulterhelese\bin\Debug\4_Muveletek_tulterhelese.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\09_Params_destruktor_yield_operator_overloading\4_Muveletek_tulterhelese\bin\Debug\4_Muveletek_tulterhelese.pdb
+C:\Users\Drauln\documents\visual studio 2017\Projects\09_Params_destruktor_yield_operator_overloading\4_Muveletek_tulterhelese\obj\Debug\4_Muveletek_tulterhelese.csprojResolveAssemblyReference.cache
+C:\Users\Drauln\documents\visual studio 2017\Projects\09_Params_destruktor_yield_operator_overloading\4_Muveletek_tulterhelese\obj\Debug\4_Muveletek_tulterhelese.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\09_Params_destruktor_yield_operator_overloading\4_Muveletek_tulterhelese\obj\Debug\4_Muveletek_tulterhelese.pdb

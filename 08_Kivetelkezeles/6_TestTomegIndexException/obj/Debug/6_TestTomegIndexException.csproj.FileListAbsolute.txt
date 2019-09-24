@@ -1,0 +1,6 @@
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\6_TestTomegIndexException\bin\Debug\6_TestTomegIndexException.exe.config
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\6_TestTomegIndexException\bin\Debug\6_TestTomegIndexException.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\6_TestTomegIndexException\bin\Debug\6_TestTomegIndexException.pdb
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\6_TestTomegIndexException\obj\Debug\6_TestTomegIndexException.csprojResolveAssemblyReference.cache
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\6_TestTomegIndexException\obj\Debug\6_TestTomegIndexException.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\6_TestTomegIndexException\obj\Debug\6_TestTomegIndexException.pdb

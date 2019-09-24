@@ -1,0 +1,5 @@
+c:\users\drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\5_Intervallum\bin\Debug\5_Intervallum.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\5_Intervallum\bin\Debug\5_Intervallum.exe
+c:\users\drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\5_Intervallum\bin\Debug\5_Intervallum.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\5_Intervallum\obj\Debug\5_Intervallum.exe
+c:\users\drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\5_Intervallum\obj\Debug\5_Intervallum.pdb

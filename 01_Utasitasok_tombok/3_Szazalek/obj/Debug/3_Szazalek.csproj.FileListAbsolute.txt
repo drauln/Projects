@@ -1,0 +1,5 @@
+c:\users\drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\3_Szazalek\bin\Debug\3_Szazalek.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\3_Szazalek\bin\Debug\3_Szazalek.exe
+c:\users\drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\3_Szazalek\bin\Debug\3_Szazalek.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\3_Szazalek\obj\Debug\3_Szazalek.exe
+c:\users\drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\3_Szazalek\obj\Debug\3_Szazalek.pdb

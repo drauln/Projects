@@ -1,0 +1,5 @@
+C:\Users\Drauln\documents\visual studio 2017\Projects\02_Osztaly_es_hasznalata\6_Test_tomeg_index\bin\Debug\6_Test_tomeg_index.exe.config
+C:\Users\Drauln\documents\visual studio 2017\Projects\02_Osztaly_es_hasznalata\6_Test_tomeg_index\bin\Debug\6_Test_tomeg_index.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\02_Osztaly_es_hasznalata\6_Test_tomeg_index\bin\Debug\6_Test_tomeg_index.pdb
+C:\Users\Drauln\documents\visual studio 2017\Projects\02_Osztaly_es_hasznalata\6_Test_tomeg_index\obj\Debug\6_Test_tomeg_index.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\02_Osztaly_es_hasznalata\6_Test_tomeg_index\obj\Debug\6_Test_tomeg_index.pdb

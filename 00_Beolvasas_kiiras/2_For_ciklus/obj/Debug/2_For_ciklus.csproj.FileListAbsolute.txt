@@ -1,0 +1,5 @@
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\2_For_ciklus\bin\Debug\2_For_ciklus.exe.config
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\2_For_ciklus\bin\Debug\2_For_ciklus.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\2_For_ciklus\bin\Debug\2_For_ciklus.pdb
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\2_For_ciklus\obj\Debug\2_For_ciklus.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\2_For_ciklus\obj\Debug\2_For_ciklus.pdb

@@ -1,0 +1,6 @@
+c:\users\drauln\documents\visual studio 2017\Projects\07_Enum\2_Konyv_enummal\bin\Debug\2_Konyv_enummal.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\07_Enum\2_Konyv_enummal\bin\Debug\2_Konyv_enummal.exe
+c:\users\drauln\documents\visual studio 2017\Projects\07_Enum\2_Konyv_enummal\bin\Debug\2_Konyv_enummal.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\07_Enum\2_Konyv_enummal\obj\Debug\2_Konyv_enummal.csprojResolveAssemblyReference.cache
+c:\users\drauln\documents\visual studio 2017\Projects\07_Enum\2_Konyv_enummal\obj\Debug\2_Konyv_enummal.exe
+c:\users\drauln\documents\visual studio 2017\Projects\07_Enum\2_Konyv_enummal\obj\Debug\2_Konyv_enummal.pdb

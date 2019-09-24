@@ -1,0 +1,6 @@
+c:\users\drauln\documents\visual studio 2017\Projects\06_Absztrakt_osztaly_interace\1_Szulo_diak\bin\Debug\1_Szulo_diak.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\06_Absztrakt_osztaly_interace\1_Szulo_diak\bin\Debug\1_Szulo_diak.exe
+c:\users\drauln\documents\visual studio 2017\Projects\06_Absztrakt_osztaly_interace\1_Szulo_diak\bin\Debug\1_Szulo_diak.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\06_Absztrakt_osztaly_interace\1_Szulo_diak\obj\Debug\1_Szulo_diak.exe
+c:\users\drauln\documents\visual studio 2017\Projects\06_Absztrakt_osztaly_interace\1_Szulo_diak\obj\Debug\1_Szulo_diak.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\06_Absztrakt_osztaly_interace\1_Szulo_diak\obj\Debug\1_Szulo_diak.csprojResolveAssemblyReference.cache

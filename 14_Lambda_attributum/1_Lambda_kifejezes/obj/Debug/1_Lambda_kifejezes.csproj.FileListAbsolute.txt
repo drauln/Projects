@@ -1,0 +1,6 @@
+c:\users\drauln\documents\visual studio 2017\Projects\14_Lambda_attributum\1_Lambda_kifejezes\bin\Debug\1_Lambda_kifejezes.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\14_Lambda_attributum\1_Lambda_kifejezes\bin\Debug\1_Lambda_kifejezes.exe
+c:\users\drauln\documents\visual studio 2017\Projects\14_Lambda_attributum\1_Lambda_kifejezes\bin\Debug\1_Lambda_kifejezes.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\14_Lambda_attributum\1_Lambda_kifejezes\obj\Debug\1_Lambda_kifejezes.csprojResolveAssemblyReference.cache
+c:\users\drauln\documents\visual studio 2017\Projects\14_Lambda_attributum\1_Lambda_kifejezes\obj\Debug\1_Lambda_kifejezes.exe
+c:\users\drauln\documents\visual studio 2017\Projects\14_Lambda_attributum\1_Lambda_kifejezes\obj\Debug\1_Lambda_kifejezes.pdb

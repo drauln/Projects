@@ -1,0 +1,6 @@
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\7_HitelException\bin\Debug\7_HitelException.exe.config
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\7_HitelException\bin\Debug\7_HitelException.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\7_HitelException\bin\Debug\7_HitelException.pdb
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\7_HitelException\obj\Debug\7_HitelException.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\7_HitelException\obj\Debug\7_HitelException.pdb
+C:\Users\Drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\7_HitelException\obj\Debug\7_HitelException.csprojResolveAssemblyReference.cache

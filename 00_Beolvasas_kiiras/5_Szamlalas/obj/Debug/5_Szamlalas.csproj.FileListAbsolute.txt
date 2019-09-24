@@ -1,0 +1,5 @@
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\5_Szamlalas\bin\Debug\5_Szamlalas.exe.config
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\5_Szamlalas\bin\Debug\5_Szamlalas.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\5_Szamlalas\bin\Debug\5_Szamlalas.pdb
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\5_Szamlalas\obj\Debug\5_Szamlalas.exe
+C:\Users\Drauln\Documents\Visual Studio 2017\Projects\00_Beolvasas_kiiras\5_Szamlalas\obj\Debug\5_Szamlalas.pdb

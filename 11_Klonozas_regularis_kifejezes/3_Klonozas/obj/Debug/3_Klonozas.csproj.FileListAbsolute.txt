@@ -1,0 +1,5 @@
+c:\users\drauln\documents\visual studio 2017\Projects\11_Klonozas_regularis_kifejezes\3_Klonozas\bin\Debug\3_Klonozas.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\11_Klonozas_regularis_kifejezes\3_Klonozas\bin\Debug\3_Klonozas.exe
+c:\users\drauln\documents\visual studio 2017\Projects\11_Klonozas_regularis_kifejezes\3_Klonozas\bin\Debug\3_Klonozas.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\11_Klonozas_regularis_kifejezes\3_Klonozas\obj\Debug\3_Klonozas.exe
+c:\users\drauln\documents\visual studio 2017\Projects\11_Klonozas_regularis_kifejezes\3_Klonozas\obj\Debug\3_Klonozas.pdb

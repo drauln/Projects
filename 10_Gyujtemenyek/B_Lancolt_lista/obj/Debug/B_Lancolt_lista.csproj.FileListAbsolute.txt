@@ -1,0 +1,5 @@
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\B_Lancolt_lista\bin\Debug\B_Lancolt_lista.exe.config
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\B_Lancolt_lista\bin\Debug\B_Lancolt_lista.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\B_Lancolt_lista\bin\Debug\B_Lancolt_lista.pdb
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\B_Lancolt_lista\obj\Debug\B_Lancolt_lista.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\B_Lancolt_lista\obj\Debug\B_Lancolt_lista.pdb

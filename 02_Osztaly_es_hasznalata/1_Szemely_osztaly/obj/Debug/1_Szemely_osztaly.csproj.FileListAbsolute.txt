@@ -1,0 +1,5 @@
+c:\users\drauln\documents\visual studio 2017\Projects\02_Osztaly_es_hasznalata\1_Szemely_osztaly\bin\Debug\1_Szemely_osztaly.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\02_Osztaly_es_hasznalata\1_Szemely_osztaly\bin\Debug\1_Szemely_osztaly.exe
+c:\users\drauln\documents\visual studio 2017\Projects\02_Osztaly_es_hasznalata\1_Szemely_osztaly\bin\Debug\1_Szemely_osztaly.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\02_Osztaly_es_hasznalata\1_Szemely_osztaly\obj\Debug\1_Szemely_osztaly.exe
+c:\users\drauln\documents\visual studio 2017\Projects\02_Osztaly_es_hasznalata\1_Szemely_osztaly\obj\Debug\1_Szemely_osztaly.pdb

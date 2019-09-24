@@ -1,0 +1,5 @@
+C:\Users\Drauln\documents\visual studio 2017\Projects\09_Params_destruktor_yield_operator_overloading\3_Yield\bin\Debug\3_Yield.exe.config
+C:\Users\Drauln\documents\visual studio 2017\Projects\09_Params_destruktor_yield_operator_overloading\3_Yield\bin\Debug\3_Yield.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\09_Params_destruktor_yield_operator_overloading\3_Yield\bin\Debug\3_Yield.pdb
+C:\Users\Drauln\documents\visual studio 2017\Projects\09_Params_destruktor_yield_operator_overloading\3_Yield\obj\Debug\3_Yield.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\09_Params_destruktor_yield_operator_overloading\3_Yield\obj\Debug\3_Yield.pdb

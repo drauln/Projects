@@ -1,0 +1,6 @@
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\C_Lazy_generikus_absztrakcio\bin\Debug\C_Lazy_generikus_absztrakcio.exe.config
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\C_Lazy_generikus_absztrakcio\bin\Debug\C_Lazy_generikus_absztrakcio.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\C_Lazy_generikus_absztrakcio\bin\Debug\C_Lazy_generikus_absztrakcio.pdb
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\C_Lazy_generikus_absztrakcio\obj\Debug\C_Lazy_generikus_absztrakcio.csprojResolveAssemblyReference.cache
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\C_Lazy_generikus_absztrakcio\obj\Debug\C_Lazy_generikus_absztrakcio.exe
+C:\Users\Drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\C_Lazy_generikus_absztrakcio\obj\Debug\C_Lazy_generikus_absztrakcio.pdb

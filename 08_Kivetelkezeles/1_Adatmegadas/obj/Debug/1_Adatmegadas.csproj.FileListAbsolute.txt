@@ -1,0 +1,6 @@
+c:\users\drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\1_Adatmegadas\bin\Debug\1_Adatmegadas.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\1_Adatmegadas\bin\Debug\1_Adatmegadas.exe
+c:\users\drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\1_Adatmegadas\bin\Debug\1_Adatmegadas.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\1_Adatmegadas\obj\Debug\1_Adatmegadas.csprojResolveAssemblyReference.cache
+c:\users\drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\1_Adatmegadas\obj\Debug\1_Adatmegadas.exe
+c:\users\drauln\documents\visual studio 2017\Projects\08_Kivetelkezeles\1_Adatmegadas\obj\Debug\1_Adatmegadas.pdb

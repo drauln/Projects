@@ -1,0 +1,5 @@
+c:\users\drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\4_Minumum_maximum_kereses\bin\Debug\4_Minumum_maximum_kereses.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\4_Minumum_maximum_kereses\bin\Debug\4_Minumum_maximum_kereses.exe
+c:\users\drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\4_Minumum_maximum_kereses\bin\Debug\4_Minumum_maximum_kereses.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\4_Minumum_maximum_kereses\obj\Debug\4_Minumum_maximum_kereses.exe
+c:\users\drauln\documents\visual studio 2017\Projects\01_Utasitasok_tombok\4_Minumum_maximum_kereses\obj\Debug\4_Minumum_maximum_kereses.pdb

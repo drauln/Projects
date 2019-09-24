@@ -1,0 +1,6 @@
+c:\users\drauln\documents\visual studio 2017\Projects\15_Linq\1_Linq\bin\Debug\1_Linq.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\15_Linq\1_Linq\bin\Debug\1_Linq.exe
+c:\users\drauln\documents\visual studio 2017\Projects\15_Linq\1_Linq\bin\Debug\1_Linq.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\15_Linq\1_Linq\obj\Debug\1_Linq.csprojResolveAssemblyReference.cache
+c:\users\drauln\documents\visual studio 2017\Projects\15_Linq\1_Linq\obj\Debug\1_Linq.exe
+c:\users\drauln\documents\visual studio 2017\Projects\15_Linq\1_Linq\obj\Debug\1_Linq.pdb

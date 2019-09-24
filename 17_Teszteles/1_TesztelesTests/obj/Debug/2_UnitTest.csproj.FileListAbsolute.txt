@@ -1,0 +1,15 @@
+c:\users\drauln\documents\visual studio 2017\Projects\17_Teszteles\1_TesztelesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\drauln\documents\visual studio 2017\Projects\17_Teszteles\1_TesztelesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\drauln\documents\visual studio 2017\Projects\17_Teszteles\1_TesztelesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\drauln\documents\visual studio 2017\Projects\17_Teszteles\1_TesztelesTests\bin\Debug\1_TesztelesTests.dll
+c:\users\drauln\documents\visual studio 2017\Projects\17_Teszteles\1_TesztelesTests\bin\Debug\1_TesztelesTests.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\17_Teszteles\1_TesztelesTests\bin\Debug\1_Teszteles.exe
+c:\users\drauln\documents\visual studio 2017\Projects\17_Teszteles\1_TesztelesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\drauln\documents\visual studio 2017\Projects\17_Teszteles\1_TesztelesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\drauln\documents\visual studio 2017\Projects\17_Teszteles\1_TesztelesTests\bin\Debug\1_Teszteles.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\17_Teszteles\1_TesztelesTests\bin\Debug\1_Teszteles.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\17_Teszteles\1_TesztelesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\drauln\documents\visual studio 2017\Projects\17_Teszteles\1_TesztelesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\drauln\documents\visual studio 2017\Projects\17_Teszteles\1_TesztelesTests\obj\Debug\2_UnitTest.csprojResolveAssemblyReference.cache
+c:\users\drauln\documents\visual studio 2017\Projects\17_Teszteles\1_TesztelesTests\obj\Debug\1_TesztelesTests.dll
+c:\users\drauln\documents\visual studio 2017\Projects\17_Teszteles\1_TesztelesTests\obj\Debug\1_TesztelesTests.pdb

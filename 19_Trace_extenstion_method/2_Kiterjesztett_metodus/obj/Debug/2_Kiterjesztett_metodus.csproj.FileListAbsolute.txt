@@ -1,0 +1,5 @@
+c:\users\drauln\documents\visual studio 2017\Projects\19_Trace_extenstion_method\2_Kiterjesztett_metodus\bin\Debug\2_Kiterjesztett_metodus.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\19_Trace_extenstion_method\2_Kiterjesztett_metodus\bin\Debug\2_Kiterjesztett_metodus.exe
+c:\users\drauln\documents\visual studio 2017\Projects\19_Trace_extenstion_method\2_Kiterjesztett_metodus\bin\Debug\2_Kiterjesztett_metodus.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\19_Trace_extenstion_method\2_Kiterjesztett_metodus\obj\Debug\2_Kiterjesztett_metodus.exe
+c:\users\drauln\documents\visual studio 2017\Projects\19_Trace_extenstion_method\2_Kiterjesztett_metodus\obj\Debug\2_Kiterjesztett_metodus.pdb

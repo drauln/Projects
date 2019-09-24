@@ -1,0 +1,5 @@
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\2_Tipusos_verem\bin\Debug\2_Tipusos_verem.exe.config
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\2_Tipusos_verem\bin\Debug\2_Tipusos_verem.exe
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\2_Tipusos_verem\bin\Debug\2_Tipusos_verem.pdb
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\2_Tipusos_verem\obj\Debug\2_Tipusos_verem.exe
+c:\users\drauln\documents\visual studio 2017\Projects\10_Gyujtemenyek\2_Tipusos_verem\obj\Debug\2_Tipusos_verem.pdb
